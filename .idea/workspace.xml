@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89456a17-036b-4de3-bc08-4cc489c6b1c9" name="Default Changelist" comment="" />
+    <list default="true" id="89456a17-036b-4de3-bc08-4cc489c6b1c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/102_tree_layerOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/206_reverse_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/226_invert_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/437_tree_path_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/543_tree_diameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/606_tree_to_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_snippet/tree_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_snippet/tree_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_snippet/tree_post_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_snippet/tree_pre_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_ideas/204_count_primes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_ideas/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts_spider/rename_books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts_spider/te.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/204_02_fancy_idea.py" beforeDir="false" afterPath="$PROJECT_DIR$/204_02_fancy_idea.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_me.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/z_test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +36,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1U2GC6fW6D5vSmI647UScypykxn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,9 +50,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/django-todolist" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../buxuele-SlowFast-master" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.204_02_fancy_idea">
+  <component name="RunManager" selected="Python.z_test">
     <configuration name="204_02_fancy_idea" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="204_count_primes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_snippet" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/204_count_primes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_snippet/linked_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="349_intersection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rename_books" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ts_spider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/349_intersection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ts_spider/rename_books.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="te" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ts_spider" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ts_spider/te.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.204_02_fancy_idea" />
         <item itemvalue="Python.z_test" />
-        <item itemvalue="Python.349_intersection" />
-        <item itemvalue="Python.204_count_primes" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.rename_books" />
+        <item itemvalue="Python.te" />
+        <item itemvalue="Python.linked_list" />
+        <item itemvalue="Python.204_02_fancy_idea" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +195,19 @@
       <updated>1574547146207</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="1031" y="215" width="800" height="684" key="#Notifications" timestamp="1578028968233">
