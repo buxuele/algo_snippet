@@ -2,25 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89456a17-036b-4de3-bc08-4cc489c6b1c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/102_tree_layerOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/206_reverse_linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/226_invert_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/437_tree_path_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/543_tree_diameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/606_tree_to_str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo_snippet/tree_layer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo_snippet/tree_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo_snippet/tree_post_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo_snippet/tree_pre_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_ideas/204_count_primes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_ideas/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts_spider/rename_books.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ts_spider/te.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/504_convert_to_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/507_perfect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/88_merge_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_snippet/tree_in_order.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/204_02_fancy_idea.py" beforeDir="false" afterPath="$PROJECT_DIR$/204_02_fancy_idea.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_me.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/53_maxSubArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/53_maxSubArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open3d/01_basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open3d/02_point_cloud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open3d/03_mesh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open3d/04_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/371_bit_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open3d/new_iamge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open3d/new_mesh.ply" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open3d/new_pcd_file.pcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/z_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/z_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,11 +51,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../buxuele-SlowFast-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,8 +70,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.z_test">
-    <configuration name="204_02_fancy_idea" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.88_merge_lists">
+    <configuration name="371_bit_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/204_02_fancy_idea.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/371_bit_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="504_convert_to_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_snippet" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_snippet/linked_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/504_convert_to_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rename_books" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="507_perfect" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ts_spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ts_spider/rename_books.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/507_perfect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="te" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="88_merge_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ts_spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ts_spider/te.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/88_merge_lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.88_merge_lists" />
+        <item itemvalue="Python.371_bit_sum" />
+        <item itemvalue="Python.507_perfect" />
+        <item itemvalue="Python.504_convert_to_7" />
         <item itemvalue="Python.z_test" />
-        <item itemvalue="Python.rename_books" />
-        <item itemvalue="Python.te" />
-        <item itemvalue="Python.linked_list" />
-        <item itemvalue="Python.204_02_fancy_idea" />
       </list>
     </recent_temporary>
   </component>
