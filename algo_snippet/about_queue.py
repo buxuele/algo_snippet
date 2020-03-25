@@ -12,17 +12,30 @@ import queue
 
 """
 
-q = queue.Queue(2)
+q = queue.Queue(20)
+q.put([1, 2])
+a = q.get()
+q.put([3, 4])
+b = q.get()
 
-print(q.empty())
 
-q.put("a")
-q.put("b")
-print(q)
-print(q.full())
 
-print(q.get())
+print(a)
+print(b)
 print(q.qsize())
+c = q.get()
+print(c)
+
+
+# print(q.empty())
+#
+# q.put([1, 2])
+# q.put("b")
+# print("tell me", q)
+# print(q.full())
+#
+# print(q.get())
+# print(q.qsize())
 
 
 

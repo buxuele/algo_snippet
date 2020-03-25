@@ -2,21 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89456a17-036b-4de3-bc08-4cc489c6b1c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/859_friend_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/888_fair_candy_swap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/908_smallest_range_I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/917_reverse_only_letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/tree_in_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/119_yanghui_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/187.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/194.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/200.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5366.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5376.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/892.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/binary_tree_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/binary_tree_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/sub_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/sub_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/tree_BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/tree_BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/tree_in_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/62_unique_pathes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/tree_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/tree_layer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/tree_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/tree_path.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/tree_post_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/tree_last_order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/tree_pre_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/tree_pre_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_snippet/about_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_snippet/about_queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/z_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +44,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../legs加强版" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fucking-algorithm" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -68,8 +65,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.binary_tree">
-    <configuration name="62_unique_pathes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.194">
+    <configuration name="187" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/62_unique_pathes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/187.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="859_friend_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="194" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/859_friend_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/194.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="888_fair_candy_swap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="200" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/888_fair_candy_swap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,28 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="917_reverse_only_letters" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/917_reverse_only_letters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="about_deque" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,7 +141,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree/binary_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_snippet/about_deque.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="about_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_snippet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_snippet/about_queue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.binary_tree" />
-        <item itemvalue="Python.62_unique_pathes" />
-        <item itemvalue="Python.917_reverse_only_letters" />
-        <item itemvalue="Python.888_fair_candy_swap" />
-        <item itemvalue="Python.859_friend_string" />
+        <item itemvalue="Python.194" />
+        <item itemvalue="Python.about_queue" />
+        <item itemvalue="Python.about_deque" />
+        <item itemvalue="Python.200" />
+        <item itemvalue="Python.187" />
       </list>
     </recent_temporary>
   </component>
