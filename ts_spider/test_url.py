@@ -11,9 +11,7 @@ headers = {'User-Agent': u.random}
 
 
 '''
-m = https://videocdnbaidu.rhsj520.com/3/MRHQL/SNIS-576-C/1500kb/hls/index.m3u8
-t = https://videocdnbaidu.rhsj520.com/3/MRHQL/SNIS-576-C/1500kb/hls/lJUBmbV1021000.ts
-
+ 
 lJUBmbV1021000.ts
 lJUBmbV10218541.ts
 
@@ -26,7 +24,7 @@ mp4_name = filename.split('.')[0]
 def get_ts_url(filename):
     for i in open(filename, 'r'):
         if i.strip()[0] != '#':
-            ts_url = 'https://videocdnbaidu.rhsj520.com/3/MRHQL/SNIS-576-C/1500kb/hls/' + i.strip()
+            ts_url = ' give me a url ' + i.strip()
             yield ts_url
 
 

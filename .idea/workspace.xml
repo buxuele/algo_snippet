@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89456a17-036b-4de3-bc08-4cc489c6b1c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1162_another_approach.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1162_depth_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1162_max_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/165_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/208.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34_find_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/49_diff_letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5370_subway.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5371_good_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/54_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/54_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/820_encoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/844_backspace_str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/card_cornor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classic_ideas/34_list_binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_62.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/z_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/z_test.py" afterDir="false" />
-    </list>
+    <list default="true" id="89456a17-036b-4de3-bc08-4cc489c6b1c9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
