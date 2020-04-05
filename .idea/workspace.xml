@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89456a17-036b-4de3-bc08-4cc489c6b1c9" name="Default Changelist" comment="" />
+    <list default="true" id="89456a17-036b-4de3-bc08-4cc489c6b1c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/151_reverse_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/209_02_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/209_shortest_sub_arr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42_catch_rain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/460_LFU.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5195.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5362.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5376_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/54_twist_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/706.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/93_ip_addr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_snippet/about_defaultdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algo_snippet/about_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix_corner_corner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_snippet/sort_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card_cornor.py" beforeDir="false" afterPath="$PROJECT_DIR$/card_cornor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/z_test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +53,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fucking-algorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -52,8 +74,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.interview_62">
-    <configuration name="5370_subway" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.z_test">
+    <configuration name="460_LFU" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5370_subway.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/460_LFU.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5371_good_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5195" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5371_good_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5195.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="844_backspace_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5376_" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/844_backspace_str.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5376_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="interview_62" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="a_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interview_62.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.interview_62" />
-        <item itemvalue="Python.844_backspace_str" />
-        <item itemvalue="Python.5371_good_string" />
-        <item itemvalue="Python.5370_subway" />
         <item itemvalue="Python.z_test" />
+        <item itemvalue="Python.5195" />
+        <item itemvalue="Python.a_test" />
+        <item itemvalue="Python.5376_" />
+        <item itemvalue="Python.460_LFU" />
       </list>
     </recent_temporary>
   </component>
