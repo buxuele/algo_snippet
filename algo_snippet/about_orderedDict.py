@@ -20,10 +20,15 @@ import collections
 dic = collections.OrderedDict()
 dic["a"] = 1
 dic["b"] = 2
+dic[3] = 3
 print(dic)
+print()
+dic.popitem()
+print(dic)
+print()
+print()
 
-# dic.clear()
-# print(dic)
+
 
 new_dic = dic.copy()
 print(new_dic)

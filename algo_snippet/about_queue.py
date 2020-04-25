@@ -12,7 +12,7 @@ import queue
 
 """
 
-q = queue.Queue(20)
+q = queue.Queue(2)
 q.put([1, 2])
 a = q.get()
 q.put([3, 4])
