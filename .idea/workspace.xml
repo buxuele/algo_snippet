@@ -2,108 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89456a17-036b-4de3-bc08-4cc489c6b1c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algo_snippet/itertools_funcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junk/127_word_dragon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junk/12_rome_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junk/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junk/16_03_inerview_encounter_point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junk/179_max_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junk/445_add_linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junk/46_all_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junk/496_next_bigger_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junk/542_0_1_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_phone_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/221_biggest_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33_find_ele.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5385.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5402_longest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5403_min_k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/77_combine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/89_grey_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_me.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junk/78_sub_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_f.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_same_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/100_same_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/101_tree_symmetric.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/101_tree_symmetric.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/102_tree_layerOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/102_tree_layerOrder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/104_tree_max_depth.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/104_tree_max_depth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1089.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/1089.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/108_array_to_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/108_array_to_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/111_03_use_deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/111_03_use_deque.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/111_basic_sub_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/111_basic_sub_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/111_tree_depth.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/111_tree_depth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1162_another_approach.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/1162_another_approach.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1162_depth_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/1162_depth_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1162_max_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/1162_max_distance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/118_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/118_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/118_yanghui.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/118_yanghui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/119_yanghui_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/119_yanghui_triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/151_reverse_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/151_reverse_words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/155_min_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/155_min_stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_three_nums_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/15_three_nums_all.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/165_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/165_version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/187.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/187.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/189_rotate_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/189_rotate_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/194.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/194.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/200.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/200.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/202_happy_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/202_happy_num.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/204_02_fancy_idea.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/204_02_fancy_idea.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/204_count_primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/204_count_primes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/206_reverse_linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/206_reverse_linked_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/208.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/208.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/209_02_binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/209_02_binary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/209_shortest_sub_arr.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/209_shortest_sub_arr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_02_test_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/21_02_test_basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_03_try_myself.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/21_03_try_myself.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_merge_linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/21_merge_linked_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/226_invert_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/226_invert_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28_word_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/28_word_length.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/29_divide_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/29_divide_two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/349_intersection.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/349_intersection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/34_find_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/34_find_index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/35_insert_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/35_insert_index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/371_bit_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/371_bit_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/38_loud_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/38_loud_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404_left_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/404_left_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/42_catch_rain.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/42_catch_rain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/437_tree_path_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/437_tree_path_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/460_LFU.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/460_LFU.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/48_rotate_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/48_rotate_image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/49_diff_letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/49_diff_letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/504_convert_to_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/504_convert_to_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/507_perfect.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/507_perfect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5195.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5195.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5362.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5362.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5366.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5366.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5370_subway.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5370_subway.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5371_good_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5371_good_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5376.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5376.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5376_.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5376_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/53_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/53_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/53_maxSubArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/53_maxSubArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/543_tree_diameter.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/543_tree_diameter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/54_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/54_matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/54_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/54_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/54_twist_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/54_twist_matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_05_restart.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5_05_restart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_longest_substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5_longest_substring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_test_old.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/5_test_old.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/606_tree_to_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/606_tree_to_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/62_unique_pathes.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/62_unique_pathes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/706.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/706.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/819_most_common_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/819_most_common_world.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/820_encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/820_encoding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/844_backspace_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/844_backspace_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/859_friend_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/859_friend_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/888_fair_candy_swap.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/888_fair_candy_swap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/88_merge_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/88_merge_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/892.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/892.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/908_smallest_range_I.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/908_smallest_range_I.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/917_reverse_only_letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/917_reverse_only_letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/93_ip_addr.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/93_ip_addr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/94_tree_in_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/94_tree_in_order.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/a_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/about_orderedDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_snippet/about_orderedDict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/about_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_snippet/about_queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/book_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/card_cornor.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/card_cornor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/junk/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview_62.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/interview_62.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix_corner_corner.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/matrix_corner_corner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pretty.py" beforeDir="false" afterPath="$PROJECT_DIR$/junk/pretty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_snippet/itertools_funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_snippet/itertools_funcs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo_snippet/zip_star.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_snippet/zip_star.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/z_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/z_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -135,7 +47,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/classic_ideas" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
@@ -157,29 +69,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.z_test">
-    <configuration name="12_rome_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_snippet" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/junk/12_rome_numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="179_max_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.221_biggest_square">
+    <configuration name="17_phone_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/junk/179_max_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/junk/17_phone_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="496_next_bigger_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="221_biggest_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/junk/496_next_bigger_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/junk/221_biggest_square.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="itertools_funcs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="78_sub_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,7 +124,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo_snippet/itertools_funcs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/junk/78_sub_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="delete_me" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/delete_me.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.221_biggest_square" />
         <item itemvalue="Python.z_test" />
-        <item itemvalue="Python.496_next_bigger_num" />
-        <item itemvalue="Python.itertools_funcs" />
-        <item itemvalue="Python.179_max_num" />
-        <item itemvalue="Python.12_rome_numbers" />
+        <item itemvalue="Python.delete_me" />
+        <item itemvalue="Python.78_sub_list" />
+        <item itemvalue="Python.17_phone_number" />
       </list>
     </recent_temporary>
   </component>
