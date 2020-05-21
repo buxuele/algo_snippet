@@ -2,20 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89456a17-036b-4de3-bc08-4cc489c6b1c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/17_phone_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/221_biggest_square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33_find_ele.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5385.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5402_longest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5403_min_k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/77_combine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/89_grey_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete_me.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junk/78_sub_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1227.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/236_most_close_ancestor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5397.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_again.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/680_check_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/84.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be_humble/decrator_eg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be_humble/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be_humble/functools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be_humble/reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be_humble/reference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be_humble/staticmethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/be_humble/use_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/60_K_th_permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/itertools_funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_snippet/itertools_funcs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_snippet/zip_star.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_snippet/zip_star.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts_spider/te.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts_spider/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ts_spider/test_url.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/z_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/z_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,11 +52,14 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/classic_ideas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classic_ideas" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/junk" />
       <recent name="$PROJECT_DIR$/tree" />
@@ -69,8 +77,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.221_biggest_square">
-    <configuration name="17_phone_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.60_K_th_permutation">
+    <configuration name="5397" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/junk/17_phone_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5397.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="221_biggest_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5_again" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/junk/221_biggest_square.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_again.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="78_sub_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="60_K_th_permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo_snippet" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/junk/78_sub_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree/60_K_th_permutation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="delete_me" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="680_check_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/delete_me.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/680_check_palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.221_biggest_square" />
+        <item itemvalue="Python.60_K_th_permutation" />
+        <item itemvalue="Python.5_again" />
+        <item itemvalue="Python.5397" />
         <item itemvalue="Python.z_test" />
-        <item itemvalue="Python.delete_me" />
-        <item itemvalue="Python.78_sub_list" />
-        <item itemvalue="Python.17_phone_number" />
+        <item itemvalue="Python.680_check_palindrome" />
       </list>
     </recent_temporary>
   </component>
