@@ -1,27 +1,26 @@
-# a = {1: 1, 2: 2}
+
+# print(chr(26+64))
+# print(4 % 2)
+# print(26*30)    # 780
+
+
+# for i in range(-10, 0):
+#     print(i)
+
 #
-# b = a[1]
-# c = a.get(1)
-# print(b, type(b))
-# print(c, type(c))
-
-
-# import math
+# a = {1: "a", 3: "b"}
 #
-# a = 10
-# b = 5
-#
+# if "b" in a:
+#     print("ok")
 
-# x = {3, 4, 5}
-# print(max(x))
-# x.remove(3)
-#
-# print(x)
+nums = [2, 7, 11, 15]
+target = 9
 
-import math
+have = {}
+for index, val in enumerate(nums):
+    want = target - val
+    if want in have:                            #  直接查看键是否在字典中, 精简.
+        print([have[want], index])
+    have[val] = index
 
-a = 11
-b = 12
 
-d = math.gcd(a, b)
-print(d)
